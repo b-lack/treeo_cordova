@@ -1,0 +1,12 @@
+# Mac
+.DS_Store
+
+# Node
+/node_modules
+
+# Cordova
+/platforms
+/plugins
+
+# WWW
+/www
