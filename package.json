@@ -23,7 +23,7 @@
         "mail": "gerrit.balindt@gruenecho.de"
     },
     "dependencies": {
-        "cordova-android": "^7.1.4",
+        "cordova-android": "^8.0.0",
         "cordova-browser": "^5.0.4",
         "cordova-plugin-add-swift-support": "^1.7.2",
         "cordova-plugin-app-version": "^0.1.9",

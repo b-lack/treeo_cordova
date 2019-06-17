@@ -1,4 +1,10 @@
-# treeo app
+# treeo cordova
+
+## Getting started
+```bash
+cordova platform add android
+cordova run android
+```
 
 ## Related Repositories
 https://github.com/b-lack/treeo_app  
